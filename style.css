@@ -13,7 +13,7 @@ body{
   height: 500px;
   width: 400px;
   border: 1px solid black;
-  background: url(/Images/background.jpg);
+  background: url(Images/resizedImage.jpg);
   background-size: cover;
   margin: 1rem auto;
   overflow: hidden;
